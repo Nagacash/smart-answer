@@ -11,26 +11,26 @@ class MyDocument extends Document {
          <link rel="manifest" href="/site.webmanifest"></link>
           <meta
             name="description"
-            content="Teach you anything in seconds use AI."
+            content="Smart Answer APP - Naga Apparel."
           />
           <meta
             property="og:description"
-            content="Teach you anything in seconds use AI."
+            content="Smart Answer APP - Naga Apparel."
           />
-          <meta property="og:title" content="Teach Anything" />
+          <meta property="og:title" content="Smart Answer APP - Naga Apparel" />
           <meta
             name="twitter:description"
-            content="Teach you anything in seconds use AI."
+            content="Smart Answer APP - Naga Apparel."
           />
           <meta
             property="og:image"
-            content="https://www.teach-anything.com/og-image.png"
+            content="https://smart-answers.vercel.app/og-image.png/"
           />
           <meta name="twitter:card" content="summary_large_image"/>
-          <meta name="twitter:site" content="@nagaclothing"/>
-          <meta name="twitter:title" content="Teach Anything"/>
+          <meta name="twitter:site" content="@naga_clothing"/>
+          <meta name="twitter:title" content="Smart Answer- Naga Apparel"/>
           <meta name="twitter:description" content="Teach you anything in seconds use AI"/>
-          <meta name="twitter:image" content="https://www.teach-anything.com/og-image.png"/>
+          <meta name="twitter:image" content="https://smart-answers.vercel.app/og-image.png"/>
         </Head>
         <body>
           <Main />
