@@ -24,13 +24,13 @@ class MyDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://smart-answers.vercel.app/og-image.png/"
+            content="./og-image.png/"
           />
           <meta name="twitter:card" content="summary_large_image"/>
           <meta name="twitter:site" content="@naga_clothing"/>
           <meta name="twitter:title" content="Smart Answer- Naga Apparel"/>
           <meta name="twitter:description" content="Teach you anything in seconds use AI"/>
-          <meta name="twitter:image" content="https://smart-answers.vercel.app/og-image.png"/>
+          <meta name="twitter:image" content="./og-image.png"/>
         </Head>
         <body>
           <Main />
